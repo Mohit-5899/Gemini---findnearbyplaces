@@ -1,0 +1,7 @@
+{
+  "name": "Local Discovery AI",
+  "description": "Find local places and get recommendations using AI powered by Google Search and Maps for the most up-to-date and accurate information.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
